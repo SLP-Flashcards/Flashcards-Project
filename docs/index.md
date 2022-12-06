@@ -2,6 +2,8 @@
 Many speech-language pathologists (SLPs) use word flashcards to help younger clients with difficult sound pronunciations. The other tools on the market to assist them are expensive, contain unnecessary or unused features, and don’t give many options for customization. It is important that there is an affordable solution that also allows SLPs to customize word lists and plans from client to client. Our project aims to be that solution.
 
 Our app will allow SLPs to create set of flashcards made up of custom words that they upload or generated from our database of words and images. They will be able to swipe through the flashcards with their clients, marking if the client said the word correctly or not. This will allow the SLP to track each client's progress over time. Our app will be able to function offline, offering a great degree of flexability in where it is used.
+
+
 ## Team
 - Valerie Vreugdenhil
 
@@ -10,8 +12,12 @@ Our app will allow SLPs to create set of flashcards made up of custom words that
 - David Reidsma
 
 - Charles Duimstra
+
+
 ## Advisor
 - Victor Norman
+
+
 ## Materials
 - [Source Code](https://github.com/SLP-Flashcards/Flashcards-Client)
 
