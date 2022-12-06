@@ -3,20 +3,20 @@ Many speech-language pathologists (SLPs) use word flashcards to help younger cli
 
 Our app will allow SLPs to create set of flashcards made up of custom words that they upload or generated from our database of words and images. They will be able to swipe through the flashcards with their clients, marking if the client said the word correctly or not. This will allow the SLP to track each client's progress over time. Our app will be able to function offline, offering a great degree of flexability in where it is used.
 ## Team
-Valerie Vreugdenhil
+- Valerie Vreugdenhil
 
-Rebecca DiCosola
+- Rebecca DiCosola
 
-David Reidsma
+- David Reidsma
 
-Charles Duimstra
-### Advisor
-Victor Norman
+- Charles Duimstra
+## Advisor
+- Victor Norman
 ## Materials
-Our code can be found [here](https://github.com/SLP-Flashcards/Flashcards-Client)
+- [Source Code](https://github.com/SLP-Flashcards/Flashcards-Client)
 
-[Project Proposal](https://docs.google.com/document/d/1cyzYqkn7H19TFNwCn8J3qhIjPLxr1mEwQSbIloImwFE)
+- [Project Proposal](https://docs.google.com/document/d/1cyzYqkn7H19TFNwCn8J3qhIjPLxr1mEwQSbIloImwFE)
 
-[Mid Year Presentation](https://1drv.ms/p/s!AniMRnjjI0yLhI1SRNuB0e0HbmF9WA?e=Yb3nJ8)
+- [Mid Year Presentation](https://1drv.ms/p/s!AniMRnjjI0yLhI1SRNuB0e0HbmF9WA?e=Yb3nJ8)
 
-[Calvin's CS Department](https://computing.calvin.edu/)
+- [Calvin's CS Department](https://computing.calvin.edu/)
