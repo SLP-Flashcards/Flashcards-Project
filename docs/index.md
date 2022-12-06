@@ -1,5 +1,3 @@
-# Speech Pathology App
-----------
 ## Vision
 Many speech-language pathologists (SLPs) use word flashcards to help younger clients with difficult sound pronunciations. The other tools on the market to assist them are expensive, contain unnecessary or unused features, and don’t give many options for customization. It is important that there is an affordable solution that also allows SLPs to customize word lists and plans from client to client. Our project aims to be that solution.
 ## Team
