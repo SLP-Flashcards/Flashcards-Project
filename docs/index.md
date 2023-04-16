@@ -1,11 +1,12 @@
 ## Vision
 Many speech-language pathologists (SLPs) use word flashcards to help younger clients with difficult sound pronunciations. The other tools on the market to assist them are expensive, contain unnecessary or unused features, and don’t give many options for customization. It is important that there is an affordable solution that also allows SLPs to customize word lists and plans from client to client. Our project aims to be that solution.
 
-Our app will allow SLPs to create set of flashcards made up of custom words that they upload or generated from our database of words and images. They will be able to swipe through the flashcards with their clients, marking if the client said the word correctly or not. This will allow the SLP to track each client's progress over time. Our app will be able to function offline, offering a great degree of flexability in where it is used.
+Our app allows SLPs to create sets of flashcards made of custom words that they upload or pull from our database of words and images. They are able to swipe through the flashcards with their clients, marking if the client said the word correctly or not. This allows the SLP to track each client's progress over time.
 
 
 ## Team
 - Valerie Vreugdenhil
+  Valerie is a senior at Calvin from Portland, OR. 
 
 - Rebecca DiCosola
 
@@ -21,8 +22,8 @@ Our app will allow SLPs to create set of flashcards made up of custom words that
 ## Materials
 - [Source Code](https://github.com/SLP-Flashcards/Flashcards-Client)
 
-- [Project Proposal](https://docs.google.com/document/d/1cyzYqkn7H19TFNwCn8J3qhIjPLxr1mEwQSbIloImwFE)
+- [Final Report](https://docs.google.com/document/d/1XffMV254y9iQaQAMCg3PsGNT_43VgKSiJxwSm43AaFU/edit?usp=sharing)
 
-- [Mid Year Presentation](https://1drv.ms/p/s!AniMRnjjI0yLhI1SRNuB0e0HbmF9WA?e=Yb3nJ8)
+- [Final Presentation](https://1drv.ms/p/s!AniMRnjjI0yLhI1SRNuB0e0HbmF9WA?e=Yb3nJ8)
 
 - [Calvin's CS Department](https://computing.calvin.edu/)
