@@ -9,8 +9,10 @@ Our app allows SLPs to create sets of flashcards made of custom words that they 
 
   Valerie is a senior at Calvin from Portland, OR. 
 
-- Rebecca DiCosola
+- Becca DiCosola
 
+  Becca is a Calvin CS & Psych Senior from Lisle, IL. 
+  
 - David Reidsma
 
 - Charles Duimstra
