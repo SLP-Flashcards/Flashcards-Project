@@ -15,7 +15,9 @@ Our app allows SLPs to create sets of flashcards made of custom words that they 
   
 - David Reidsma
 
-- Charles Duimstra
+- Charlie Duimstra
+
+  Charlie is a senior CS & Math major at Calvin from Appleton, WI. 
 
 
 ## Advisor
