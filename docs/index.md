@@ -7,7 +7,7 @@ Our app allows SLPs to create sets of flashcards made of custom words that they 
 ## Team
 - Valerie Vreugdenhil
 
-  Valerie is a senior at Calvin from Portland, OR. 
+  Valerie is a senior CS major at Calvin from Portland, OR. 
 
 - Becca DiCosola
 
